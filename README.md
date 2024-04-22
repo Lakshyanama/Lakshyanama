@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshyanama&" alt="jaiswaladi246" /></p>
 
 ### 🔝 Top Contributed Rep
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Lakshyanama&limit=5&theme=flat&combine_all_yearly_contributions=true)
