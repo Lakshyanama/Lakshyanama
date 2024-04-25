@@ -1,4 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Lakshya Nama</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/Banner.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. blending theoretical
  knowledge with hands-on project experience. Committed to driving innovative solutions for
  efficient cloud infrastructure and automation</h3>
